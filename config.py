@@ -1,12 +1,12 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
-    BOT_ID = 0
+    API_ID = 21552435
+    API_HASH = "5b108bd2fdd31c0c34bc65f24a5216a0"
+    BOT_TOKEN = "8283404104:AAHWezqc3mNKmP87HmE-zdW0f76iEvP5UZo"
+    BOT_NAME = "˹˹𝜥ᴜꜱʜᴀʟ ✘ 𝐌ᴜꜱɪᴄ˼"
+    BOT_USERNAME = "Kushalmusicbot"
+    BOT_ID = 8283404104
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -18,14 +18,14 @@ class config:
 
 
     #Info
-    BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
+    BOT_VERSION = "1.0.0"
+    OWNER_ID = 6632236983
+    OWNER_USERNAME = "senpaiii 10"
+    SUPPORT_CHAT = -1002547223008
     SUPPORT_CHAT_USERNAME = "Domihoes"
     SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    LOG_CHANNEL = -1002547223008
+    ERROR_LOG_CHANNEL = -1002547223008
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
@@ -52,6 +52,5 @@ class config:
     Movie_RAC = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1ZDMyNzRjM2JiMDhiNDI3NjQ4MjQzNmM4NDQ0YWJjMCIsIm5iZiI6MTczMzIyMjgxMy42OTQwMDAyLCJzdWIiOiI2NzRlZTE5ZDJjZTRjZTdkZDYwOTU2YjAiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.aXfQw0_CRrKl2iSJd9tFE1TVbWWVYNgysWkUVlwzyRg"
     Pokedex = "https://sugoi-api.vercel.app/pokemon?name={name_or_id}"
     OPENAI_KEY = "xx" #Get From Open Ai's Website
+
     LYRICS_GENIUS_TOKEN = "x-x" #Get From Genius.com
-
-
